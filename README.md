@@ -1,2 +1,26 @@
-# data-analysis-poco-x5-pro
-Analisis data penjualan smartphone menggunakan Excel dan dashboard
+# 📊 Data Analysis: Poco X5 Pro Sales
+
+## 📌 Overview
+Project ini berisi analisis data penjualan smartphone untuk memahami performa bisnis dan profitabilitas.
+
+## 🎯 Objectives
+- Menganalisis penjualan dan profit
+- Mengidentifikasi tren bulanan
+- Memberikan insight bisnis
+
+## 🛠 Tools
+- Microsoft Excel
+- Data Visualization
+
+## 📈 Key Insights
+- Total penjualan Rp8,48 M
+- Profit Rp1,06 M
+- Penurunan profit terjadi di bulan Maret
+
+## 💡 Recommendations
+- Optimasi product mix
+- Evaluasi strategi diskon
+- Fokus pada produk high-margin
+
+## 👤 Author
+Muh Rifli
