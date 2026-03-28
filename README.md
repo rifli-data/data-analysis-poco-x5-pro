@@ -1,5 +1,7 @@
 # 📊 Data Analysis: Poco X5 Pro Sales
 
+📊 This project demonstrates my ability to analyze sales data, generate insights, and provide data-driven business recommendations.
+
 ## 📌 Overview
 Project ini berisi analisis data penjualan smartphone untuk memahami performa bisnis dan profitabilitas.
 
