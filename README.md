@@ -25,4 +25,4 @@ This project analyzes smartphone sales data to understand business performance a
 - Focus on high-margin products
 
 ## 👤 Author
-Muh Rifli
+Muh. Rifli
