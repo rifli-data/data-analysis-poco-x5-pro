@@ -3,26 +3,26 @@
 📊 This project demonstrates my ability to analyze sales data, generate insights, and provide data-driven business recommendations.
 
 ## 📌 Overview
-Project ini berisi analisis data penjualan smartphone untuk memahami performa bisnis dan profitabilitas.
+This project analyzes smartphone sales data to understand business performance and profitability.
 
 ## 🎯 Objectives
-- Menganalisis penjualan dan profit
-- Mengidentifikasi tren bulanan
-- Memberikan insight bisnis
+- Analyze sales and profit performance
+- Identify monthly trends
+- Provide business insights
 
 ## 🛠 Tools
 - Microsoft Excel
 - Data Visualization
 
 ## 📈 Key Insights
-- Total penjualan Rp8,48 M
-- Profit Rp1,06 M
-- Penurunan profit terjadi di bulan Maret
+- Total sales reached Rp8.48B
+- Total profit was Rp1.06B
+- Profit declined significantly in March
 
 ## 💡 Recommendations
-- Optimasi product mix
-- Evaluasi strategi diskon
-- Fokus pada produk high-margin
+- Optimize product mix for better margins
+- Evaluate discount strategies
+- Focus on high-margin products
 
 ## 👤 Author
 Muh Rifli
